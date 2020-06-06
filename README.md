@@ -24,7 +24,7 @@ sudo make install
 OpenCV  
 OpenCV Contrib
 
-OpenCV 3.0, 4.0 test well.  
+OpenCV with version of both 3.0 and 4.0 tests well.  
 
 gcc version: gcc (Ubuntu 5.4.0-6ubuntu1/~16.04.12) 5.4.0 20160609   
 g++ version: g++ (Ubuntu 5.4.0-6ubuntu1/~16.04.12) 5.4.0 20160609  
