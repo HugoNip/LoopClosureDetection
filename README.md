@@ -39,9 +39,9 @@ make
 
 ## Run
 ```
-./feature_training  
-./gen_vocab_large  
-./loop_closure  
+./build/feature_training  
+./build/gen_vocab_large  
+./build/loop_closure  
 ```
 
 
